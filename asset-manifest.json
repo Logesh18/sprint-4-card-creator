@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sprint-4-card-creator/static/css/main.7d7c9b49.css",
+    "main.css": "/sprint-4-card-creator/static/css/main.2d6bf492.css",
     "main.js": "/sprint-4-card-creator/static/js/main.a4df9423.js",
     "static/js/787.fa9a5f9f.chunk.js": "/sprint-4-card-creator/static/js/787.fa9a5f9f.chunk.js",
     "index.html": "/sprint-4-card-creator/index.html",
-    "main.7d7c9b49.css.map": "/sprint-4-card-creator/static/css/main.7d7c9b49.css.map",
+    "main.2d6bf492.css.map": "/sprint-4-card-creator/static/css/main.2d6bf492.css.map",
     "main.a4df9423.js.map": "/sprint-4-card-creator/static/js/main.a4df9423.js.map",
     "787.fa9a5f9f.chunk.js.map": "/sprint-4-card-creator/static/js/787.fa9a5f9f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d7c9b49.css",
+    "static/css/main.2d6bf492.css",
     "static/js/main.a4df9423.js"
   ]
 }
